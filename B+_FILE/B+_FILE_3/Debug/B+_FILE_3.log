@@ -1,0 +1,26 @@
+﻿빌드 시작: 2014-05-16 오후 10:42:11
+     1>2 노드의 "C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\B+_FILE_3\B+_FILE_3.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt JHM.c
+         JHM.c
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(109): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(109): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(110): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(111): warning C4101: 'tmp_node' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(109): warning C4101: 'data_add' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(152): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(154): warning C4101: 'tmp_node' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(152): warning C4101: 'data_add' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(181): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(250): warning C4101: 'tmp_data' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(458): warning C4101: 'tmp_data_add' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(454): warning C4101: 'tmep_add' :참조되지 않은 지역 변수입니다.
+     1>c:\users\administrator\documents\visual studio 2013\projects\b+_file_3\b+_file_3\jhm.c(749): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\Debug\B+_FILE_3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\Debug\B+_FILE_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\Debug\B+_FILE_3.lib" /MACHINE:X86 Debug\JHM.obj
+         B+_FILE_3.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\Debug\B+_FILE_3.exe
+     1>"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\B+_FILE_3\B+_FILE_3\B+_FILE_3.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.27
